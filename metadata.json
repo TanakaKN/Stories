@@ -1,0 +1,5 @@
+{
+  "name": "Ngano AI",
+  "description": "Transform Shona and English stories into cinematic short videos with African narration.",
+  "requestFramePermissions": ["microphone"]
+}
